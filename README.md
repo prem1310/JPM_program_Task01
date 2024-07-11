@@ -11,3 +11,6 @@ in my program
 5] json file into dataframe
 6] store in csv file
 7] by matplotlib plot the graph
+
+Output:
+![image](https://github.com/prem1310/JPM_program_Task01/assets/149168500/6b69d26a-bfbb-463f-becc-ea3bd6ff45a6)
