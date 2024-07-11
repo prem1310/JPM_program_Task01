@@ -5,7 +5,7 @@ in this such as: pandas, numpy, matplotlib, requests
 and then write the code.
 in my program 
 1] import all requried modules 
-2] set url for data
+2] set url for data(use you api key)
 3] get request in response
 4] form response get data 
 5] json file into dataframe
